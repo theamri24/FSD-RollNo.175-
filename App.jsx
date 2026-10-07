@@ -1,10 +1,12 @@
 import React from 'react'
 import './App.css'
-import ICardGallary from './Component/ICardGallary'
+import Imagemanipulation from './Component/imagemaupalution'
 
 function App() {
   return (
-    <ICardGallary />
+    <div>
+      <Imagemanipulation />
+    </div>
   )
 }
 
